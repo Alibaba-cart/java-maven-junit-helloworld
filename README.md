@@ -13,7 +13,7 @@ mmm
 * Unit tests written with [JUnit 5](https://junit.org/junit5/)
 * Integration tests written with [JUnit 5](https://junit.org/junit5/)
 * Code coverage reports via [JaCoCo](https://www.jacoco.org/jacoco/)
-* A Maven build that puts it all together
+* A Maven build that puts it all togetherr
 
 ## Running the tests;lk;l
 
