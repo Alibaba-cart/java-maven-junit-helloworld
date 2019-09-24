@@ -1,6 +1,8 @@
 # A Java/Maven/JUnit HelloWorld example
 
+
 **This branch targeting Java 11 is work-in-progressm,mkk
+
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
@@ -18,7 +20,7 @@ mmm
 * To run the unit tests, call `mvn test`
 * To run the integration tests as well, call `mvn verify`.
 * Code coverage reports are generated when `mvn verify` (or a full `mvn clean install`) is called.
-  Point a browser at the output in `target/site/jacoco-both/index.html` to see the report.
+  Point a browser at the output in `target/site/jacoco-both/index.html` to see the report..
 
 ## Conventions
 
